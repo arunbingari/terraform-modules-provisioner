@@ -1,4 +1,4 @@
-### initialize
+### initialize the terraform 
 
     terraform init
 
