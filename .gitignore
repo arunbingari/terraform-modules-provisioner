@@ -1,7 +1,11 @@
-<<<<<<< HEAD
-# removing .terraform folder from git
-=======
-
->>>>>>> f483ca9f09791d4d032ccd022c8ee9c4ff63e7f3
 **/.terraform/*
+
+*.tfstate
+*.tfstate.*
+
 *.tfvars
+
+.terraformrc
+terraform.rc
+
+.DS_Store
